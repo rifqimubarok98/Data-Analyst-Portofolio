@@ -1,0 +1,11 @@
+Link Project Data Analyst
+
+Dashboard Looker Studio: 
+Project Melbourne Housing 	: https://datastudio.google.com/reporting/4a33f063-c040-42af-86e0-912e5050c27f
+Project Lowongan Pekerjaan 	: https://datastudio.google.com/reporting/297bcf0a-f172-421e-a7ef-00476da1fb46
+
+Python Google Collab :
+Project Lowongan Pekerjaan	: https://colab.research.google.com/drive/1o-SBcGDDee6zSb6e5NBQYmYgVoNyjKFq?usp=sharing
+Skripsi Regresi Linear Berganda : https://colab.research.google.com/drive/10-Wvh_R9KyatArXAlMkNvVsor6PN8ds3?usp=sharing
+
+(Selebihnya merupakan file rahasia perusahaan, jadi tidak bisa saya tampilkan)
